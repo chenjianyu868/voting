@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/voting/static/css/main.7cbf3aaa.css",
-    "main.js": "/voting/static/js/main.2bff03b4.js",
+    "main.js": "/voting/static/js/main.e7b25abf.js",
     "static/js/27.4c89b8ed.chunk.js": "/voting/static/js/27.4c89b8ed.chunk.js",
     "index.html": "/voting/index.html"
   },
   "entrypoints": [
     "static/css/main.7cbf3aaa.css",
-    "static/js/main.2bff03b4.js"
+    "static/js/main.e7b25abf.js"
   ]
 }
